@@ -13,5 +13,11 @@ int main()
 
 	ofstream outfile;
 	outfile.open(NamaFile + ".txt", ios::out);
+
+	cout << ">= Menulis file, \'q\' utuk keluar" << endl;
+
+	while (true) {
+
+	}
 }
 
